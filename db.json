@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "email": "john@gmail.com",
+      "phone": "123455789"
+    },
+    {
+      "id": "2",
+      "name": "Jack",
+      "email": "jack@gmail.com",
+      "phone": "987456321"
+    },
+    {
+      "id": "02ff",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": "ab9f",
+      "name": "sham",
+      "email": "sham@gmail.com",
+      "phone": "998877665"
+    }
+  ]
+}
